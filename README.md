@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Welcome to attayeeEsmatullah's GitHub
 
-<!--
-**attayeeEsmatullah/attayeeEsmatullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![status](https://img.shields.io/badge/status-active-brightgreen) ![Solana](https://img.shields.io/badge/blockchain-solana-blue)
 
-Here are some ideas to get you started:
+Hi there! I’m **attayeeEsmatullah**, a blockchain enthusiast and developer currently working on **Templier**, an innovative **income streaming app on Solana**. The mission is to redefine how continuous payments are handled in decentralized finance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚔️ About Templier
+
+**Templier** is an automated income streaming solution that offers:
+- **Real-time payment flows** with minimal fees.
+- **Scalable smart contract architecture** for secure transactions.
+- **Effortless integration** into Solana-based applications.
+
+---
+
+### 🛠️ Tools & Technologies
+
+- **Solana**: Fast, low-cost blockchain.
+- **TypeScript**: For frontend interaction.
+
+---
+
+### 🌐 Contact & Contributions
+- **GitHub**: [github.com/attayeeEsmatullah](https://github.com/attayeeEsmatullah)  
+- **Website**: [Coming soon!]
+
+---
